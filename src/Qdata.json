@@ -1,0 +1,833 @@
+{
+  "Biology": [
+ {
+   "question": "Which among the following is the most common method of pollination in flowers without petals?",
+   "options": ["Wind", "Water", "Insects", "All of the above"],
+   "answer": "Wind"
+ },
+ {
+   "question": "Who is the father of Botany?",
+   "options": ["Adam Smith", "Greco-Roman", "Theophrastus", "Carl Linnaeus"],
+   "answer": "Theophrastus"
+ },
+ {
+   "question": "Chlorophyll absorbs which wavelength of sunlight?",
+   "options": ["Green & Blue", "Green & Red", "Red & Blue", "Red & Yellow"],
+   "answer": "Red & Blue"
+ },
+ {
+   "question": "Which among the following is not a fish?",
+   "options": ["Cuttle Fish", "Gold Fish", "Dog Fish", "Zebra Fish"],
+   "answer": "Cuttle Fish"
+ },
+ {
+   "question": "The birth of the first child will be a fatal situation in which of the following conditions?",
+   "options": [
+     "Male Rh+ & Female Rh-",
+     "Male Rh- & Female Rh+",
+     "Male Rh- & Female Rh-",
+     "None of the above"
+   ],
+   "answer": "Male Rh+ & Female Rh-"
+ },
+ {
+   "question": "In which of the following conditions is a person born with both ovarian and testicular tissues, i.e., both female and male organs?",
+   "options": ["Swyer syndrome", "Penile agenesis", "Polyorchidism", "Hermaphroditism"],
+   "answer": "Hermaphroditism"
+ },
+ {
+   "question": "Pearls are primarily composed of which of the following substances?",
+   "options": ["Protein", "Calcium Carbonate", "Silica", "Sodium Carbonate"],
+   "answer": "Calcium Carbonate"
+ },
+ {
+   "question": "The monocarpic plants produce flowers only ________?",
+   "options": ["Once in a year", "Once in a season", "Once in lifetime", "One flower per plant"],
+   "answer": "Once in lifetime"
+ },
+ {
+   "question": "What is PRINT (Particle Replication in Non-wetting Templates) Technology?",
+   "options": [
+     "It’s a technology related to genetic engineering and refers to duplication of the DNA codes",
+     "It’s a technology related to climate change and refers to a new technique of combating air pollution",
+     "It’s a new technology related to synthesis of artificial blood",
+     "None of them"
+   ],
+   "answer": "It’s a new technology related to synthesis of artificial blood"
+ },
+ {
+   "question": "Which among the following usually regulates breathing in humans?",
+   "options": [
+     "The number of red blood cells",
+     "The amount of haemoglobin in the blood",
+     "Inherent genetic control",
+     "CO2 levels and pH sensors"
+   ],
+   "answer": "CO2 levels and pH sensors"
+ }
+],
+
+   "Sports": [
+ {
+   "question": "Who among the following has written the book 'Cricket My Style'?",
+   "options": ["Sunil Gavaskar", "Anil Kumble", "Kapil Dev", "None of them"],
+   "answer": "Kapil Dev"
+ },
+ {
+   "question": "Ezra Cup is related to which of the following sports?",
+   "options": ["Polo", "Tennis", "Lawn Tennis", "Cricket"],
+   "answer": "Polo"
+ },
+ {
+   "question": "Who is regarded as the most successful Indian test captain of the Indian Cricket team?",
+   "options": ["Virat Kohli", "Sunil Gavaskar", "MS Dhoni", "Sachin Tendulkar"],
+   "answer": "MS Dhoni"
+ },
+ {
+   "question": "What is the standard width of each wicket in cricket?",
+   "options": ["9 inches", "10 inches", "11 inches", "12 inches"],
+   "answer": "9 inches"
+ },
+ {
+   "question": "When were the first Asian Games held?",
+   "options": ["1951", "1962", "1968", "1970"],
+   "answer": "1951"
+ },
+ {
+   "question": "Who amongst the following is a renowned Indian classical dancer?",
+   "options": ["Siddheshwari Devi", "Sonal Mansingh", "Madhumati", "Palghat Mani Iyer"],
+   "answer": "Sonal Mansingh"
+ },
+ {
+   "question": "Which among the following pairs has been correctly matched?",
+   "options": ["Nehru Trophy — Table Tennis", "Holkar Trophy — Bridge", "B. C. Roy Trophy — Lawn Tennis", "Ruia Trophy — Kabaddi"],
+   "answer": "Holkar Trophy — Bridge"
+ },
+ {
+   "question": "What is the normal time difference between which both the Summer Olympics and Winter Olympics are held?",
+   "options": ["1 Year", "2 Years", "3 Years", "4 Years"],
+   "answer": "2 Years"
+ },
+ {
+   "question": "Which country will host the 2028 Summer Olympic Games?",
+   "options": ["United States of America", "Japan", "France", "Brazil"],
+   "answer": "United States of America"
+ },
+ {
+   "question": "Which game’s traditional ceremony is 'Queen’s Baton Relay'?",
+   "options": ["Olympic Games", "Asian Games", "Commonwealth Games", "European Games"],
+   "answer": "Commonwealth Games"
+ }
+],
+    "Environment & Biodiversity": [
+ {
+   "question": "In which year was Project Tiger launched in India?",
+   "options": ["1970", "1973", "1992", "1995"],
+   "answer": "1973"
+ },
+ {
+   "question": "What is another name for the Earth Summit?",
+   "options": ["Geneva Summit", "Brasilia Summit", "Rio Summit", "World Summit"],
+   "answer": "Rio Summit"
+ },
+ {
+   "question": "Which type of forest is most widespread in India?",
+   "options": ["Tropical Deciduous Forests", "Tropical Evergreen Forests", "Mangrove Forests", "Montane Forests"],
+   "answer": "Tropical Deciduous Forests"
+ },
+ {
+   "question": "Biomass is defined as:",
+   "options": [
+     "Total organic matter existing in an ecosystem",
+     "Total inorganic matter existing in an ecosystem",
+     "Total organic and inorganic matter existing in an ecosystem",
+     "None of the above"
+   ],
+   "answer": "Total organic matter existing in an ecosystem"
+ },
+ {
+   "question": "Which section of the Biological Diversity Act, 2002, defines the term 'biodiversity'?",
+   "options": ["Section 1(a)", "Section 1(b)", "Section 2(a)", "Section 2(b)"],
+   "answer": "Section 2(b)"
+ },
+ {
+   "question": "Which type of forests are found along the Western Ghats and the Nicobar and Andaman Islands?",
+   "options": [
+     "Tropical Dry Deciduous Forests",
+     "Tropical Wet Evergreen Forests",
+     "Tropical Moist Deciduous Forests",
+     "Tropical Semi-Evergreen Forests"
+   ],
+   "answer": "Tropical Wet Evergreen Forests"
+ },
+ {
+   "question": "Gumpa Forests is the local term for the sacred groves of which of the following states?",
+   "options": ["Andhra Pradesh", "Arunachal Pradesh", "Maharashtra", "Karnataka"],
+   "answer": "Arunachal Pradesh"
+ },
+ {
+   "question": "Which amendment to the Water (Prevention and Control of Pollution) Act, 1974, empowered SPCB and CPCB to close a defaulting industrial plant?",
+   "options": ["Amendment, 1988", "Amendment, 1990", "Amendment, 1992", "None of the above"],
+   "answer": "Amendment, 1988"
+ },
+ {
+   "question": "The ozone layer is present in which of the following layers of the atmosphere?",
+   "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+   "answer": "Stratosphere"
+ },
+ {
+   "question": "The state which produces the largest number of orchids in India is:",
+   "options": ["Meghalaya", "Assam", "Sikkim", "Arunachal Pradesh"],
+   "answer": "Sikkim"
+ }
+],
+    "International Related": [
+ {
+   "question": "Tailored Deterrence Strategy (TDS) is associated with which countries?",
+   "options": ["India-USA", "USA-South Korea", "Russia-China", "China-Pakistan"],
+   "answer": "USA-South Korea"
+ },
+ {
+   "question": "‘Stopgap spending bill’, which was seen in the news, is associated with which country?",
+   "options": ["USA", "Russia", "China", "India"],
+   "answer": "USA"
+ },
+ {
+   "question": "Which country is associated with the “Rwanda plan”?",
+   "options": ["USA", "UK", "The Netherlands", "Russia"],
+   "answer": "UK"
+ },
+ {
+   "question": "“Innovation Handshake” agenda is associated with which two countries?",
+   "options": ["China and US", "US and India", "India and China", "India and Pakistan"],
+   "answer": "US and India"
+ },
+ {
+   "question": "What is the expansion of ‘IPEF’, with respect to international diplomacy?",
+   "options": [
+     "Indo-Pacific Economic Framework for Prosperity",
+     "Indo-Pakistan Economic Framework for Prosperity",
+     "Indo-Papua New Guinea Economic Framework for Prosperity",
+     "Indo-Philippines Economic Framework for Prosperity"
+   ],
+   "answer": "Indo-Pacific Economic Framework for Prosperity"
+ },
+ {
+   "question": "Deep Space Optical Communications (DSOC) experiment is associated with which space agency?",
+   "options": ["NASA", "ESA", "ISRO", "JAXA"],
+   "answer": "NASA"
+ },
+ {
+   "question": "Which organisation is associated with the Commission on Social Connection (2024–2026)?",
+   "options": ["IMF", "UNICEF", "UNESCO", "WHO"],
+   "answer": "WHO"
+ },
+ {
+   "question": "U.S. began joint maritime and air patrols in the South China Sea with which country?",
+   "options": ["Indonesia", "Philippines", "Israel", "France"],
+   "answer": "Philippines"
+ },
+ {
+   "question": "Which country inaugurated the world’s largest single-site solar power plant ‘Al Dhafra’ Project?",
+   "options": ["Israel", "UAE", "Iran", "Oman"],
+   "answer": "UAE"
+ },
+ {
+   "question": "World Health Organisation (WHO) confirmed sexual transmission of mpox, or monkeypox, in which country?",
+   "options": ["Kenya", "Russia", "Congo", "Argentina"],
+   "answer": "Congo"
+ }
+],
+   "Indian Art And Culture": [
+ {
+   "question": "Who was the first Indian to win an Oscar award?",
+   "options": ["Bhanu Athaiya", "Shabana Azmi", "Satyajit Ray", "Naseeruddin Shah"],
+   "answer": "Bhanu Athaiya"
+ },
+ {
+   "question": "The first novel written by Sunil Gangopadhyay is:",
+   "options": ["Athmo Prakash (Self-Revelation)", "Pratham Alo (First Light)", "Purba Pachim (East and West)", "Shei Shomay (Those Days)"],
+   "answer": "Athmo Prakash (Self-Revelation)"
+ },
+ {
+   "question": "Which among the following temples does not belong to the Chola Empire?",
+   "options": ["Brihadishwara", "Koranganatha", "Kailashanatha", "Airavateshwar"],
+   "answer": "Kailashanatha"
+ },
+ {
+   "question": "Which among the following is the hallmark feature of the Dravida style of temple architecture?",
+   "options": ["Shikara", "Gopura", "Vimana", "Mandapa"],
+   "answer": "Vimana"
+ },
+ {
+   "question": "Yājñavalkya Smrti was written in which among the following era?",
+   "options": ["Vedic Period", "Later Vedic Period", "Maurya Period", "Gupta Period"],
+   "answer": "Gupta Period"
+ },
+ {
+   "question": "Which of the following is considered the oldest language in the history of India?",
+   "options": ["Sanskrit", "Telugu", "Hindi", "Tamil"],
+   "answer": "Tamil"
+ },
+ {
+   "question": "In the field of Music, which among the following state Governments gives the Tana Riri Award every year?",
+   "options": ["Rajasthan", "Madhya Pradesh", "Gujarat", "Maharashtra"],
+   "answer": "Gujarat"
+ },
+ {
+   "question": "Which of the following prizes is given by the KK Birla Foundation for commendable work in Hindi?",
+   "options": ["Acharya Tulsi Samman", "Vyas Samman", "Saraswati Samman", "Rajahasha Samman"],
+   "answer": "Vyas Samman"
+ },
+ {
+   "question": "Which among the following statements about Devadasis is not true?",
+   "options": [
+     "According to Paes, Devadasis held a highly esteemed position in Vijayanagar society.",
+     "The Devadasi system originated solely during the Vijayanagar era.",
+     "Devadasi implies that the girls were married to deities.",
+     "All the above statements are true."
+   ],
+   "answer": "The Devadasi system originated solely during the Vijayanagar era."
+ },
+ {
+   "question": "Sabarimala in Kerala is a famous place devoted to ________?",
+   "options": ["Aiyanar", "Ayyappan", "Muthappan", "Kotilingeshwara"],
+   "answer": "Ayyappan"
+ }
+],
+   "Food": [
+ {
+   "question": "What are some of the things that have a high level of fiber?",
+   "options": ["Fruit, veggies and whole grains", "Burgers, fries and milkshake", "Salad, bitter and pickles", "Pizza, nachos and sandwich"],
+   "answer": "Fruit, veggies and whole grains"
+ },
+ {
+   "question": "Bread staling is due to:",
+   "options": ["Starch retrogradation", "Microbial spoilage", "Gelatinization", "Caramelization"],
+   "answer": "Starch retrogradation"
+ },
+ {
+   "question": "Which one of the following products was introduced in India by South America?",
+   "options": ["Mango", "Fenugreek", "Coffee", "Chilli"],
+   "answer": "Chilli"
+ },
+ {
+   "question": "Which one of the following is a group of roots?",
+   "options": ["Beetroot, Potato, Ginger", "Carrot, Turmeric, Ginger", "Sweet Potato, Radish, Turmeric", "Carrot, Beetroot, Radish"],
+   "answer": "Carrot, Beetroot, Radish"
+ },
+ {
+   "question": "A teacher has to teach grade 4 students related to 'quick snack' in her classroom. Which dish will be prepared quickly?",
+   "options": ["Egg sandwich", "Custard", "Dosa", "Bhelpuri"],
+   "answer": "Bhelpuri"
+ },
+ {
+   "question": "A diet which is rich in all the important nutrients is called:",
+   "options": ["Rich diet", "Complete diet", "Balance diet", "Diet"],
+   "answer": "Balance diet"
+ },
+ {
+   "question": "Which of the following techniques needs to be adopted in preparing amla murabba?",
+   "options": ["Protection", "Shielding", "Decomposition", "Pasteurization"],
+   "answer": "Shielding"
+ },
+ {
+   "question": "Today we cannot think of food without chillies. These were brought to our country by traders coming from:",
+   "options": ["England", "South America", "South Africa", "Afghanistan"],
+   "answer": "South America"
+ },
+ {
+   "question": "'Undhiya' is a famous food for farmers in:",
+   "options": ["Rajasthan", "Gujarat", "Madhya Pradesh", "Chhattisgarh"],
+   "answer": "Gujarat"
+ },
+ {
+   "question": "Which of the following was brought to our country by traders coming from South America?",
+   "options": ["Cabbage", "Tomato", "Pea", "Bhindi"],
+   "answer": "Tomato"
+ }
+],
+     "Science & Technology": [
+ {
+   "question": "Emmett Shear is the interim CEO of which major technology company?",
+   "options": ["Amazon", "Apple", "Open AI", "Samsung"],
+   "answer": "Open AI"
+ },
+ {
+   "question": "‘Vyommitra’ robot, recently seen in the news, is associated with which space mission?",
+   "options": ["Aditya L1", "Gaganyaan", "Chandrayaan 3", "Chandrayaan 2"],
+   "answer": "Gaganyaan"
+ },
+ {
+   "question": "FAST Telescope, recently seen in the news, is developed by which country?",
+   "options": ["Russia", "USA", "China", "India"],
+   "answer": "China"
+ },
+ {
+   "question": "What is the name of the ChatGPT-style service recently launched by the Reliance Industries group?",
+   "options": ["Hanooman", "Mahavir", "Avtaar", "Chanakya"],
+   "answer": "Hanooman"
+ },
+ {
+   "question": "India’s fastest and indigenously developed IP/MPLS (Multiprotocol Label Switching) router was inaugurated in which city?",
+   "options": ["Bengaluru", "Chennai", "New Delhi", "Chandigarh"],
+   "answer": "Bengaluru"
+ },
+ {
+   "question": "Dragonfly rotorcraft mission, recently seen in the news, is associated with which space organization?",
+   "options": ["NASA", "ISRO", "CNSA", "JAXA"],
+   "answer": "NASA"
+ },
+ {
+   "question": "Which company recently introduced its most capable Large Language Model (LLM), the Llama 3?",
+   "options": ["Google", "Microsoft", "Meta", "Amazon"],
+   "answer": "Meta"
+ },
+ {
+   "question": "What is ‘Neo’, recently seen in the news?",
+   "options": ["a novel protein", "Asteroid", "Invasive weed", "Exoplanet"],
+   "answer": "a novel protein"
+ },
+ {
+   "question": "Which institute recently discovered that water droplets can break natural minerals into nanoparticles?",
+   "options": ["IIT Kanpur", "IIT Madras", "IIT Bombay", "IIT Roorkee"],
+   "answer": "IIT Madras"
+ },
+ {
+   "question": "Recently, which space organization has launched ‘Tanager-1 Satellite’ to track methane emissions?",
+   "options": ["ISRO", "ESA", "CNSA", "NASA"],
+   "answer": "NASA"
+ },
+ {
+   "question": "Which country developed the world’s first wooden satellite named LignoSat?",
+   "options": ["Japan", "Russia", "China", "Israel"],
+   "answer": "Japan"
+ }
+],
+    "General Science": [
+ {
+   "question": "Calcitriol is the biologically active form of which among the following Vitamins?",
+   "options": ["Vitamin B", "Vitamin C", "Vitamin D", "Vitamin E"],
+   "answer": "Vitamin D"
+ },
+ {
+   "question": "Which of the following waves are also called as heat waves?",
+   "options": ["UV rays", "X-rays", "Infrared", "Microwaves"],
+   "answer": "Infrared"
+ },
+ {
+   "question": "Who was the first to state the principle of floatation?",
+   "options": ["Isaac Newton", "Archimedes", "Aristotle", "Galileo Galilei"],
+   "answer": "Archimedes"
+ },
+ {
+   "question": "What was the name of first Nuclear reactor constructed in India?",
+   "options": ["Bharati", "Apsara", "Laxmi", "Mohini"],
+   "answer": "Apsara"
+ },
+ {
+   "question": "Which of these chemicals is used to form soaps containing sodium salts?",
+   "options": ["Sulphuric acid", "Sodium hydroxide", "Nitric acid", "Carbonic acid"],
+   "answer": "Sodium hydroxide"
+ },
+ {
+   "question": "Haemophilia is caused by __",
+   "options": ["Bacteria", "Virus", "Genetic mutation", "Cause unknown"],
+   "answer": "Genetic mutation"
+ },
+ {
+   "question": "Which of the following is produced when wood is burnt in a limited supply of oxygen?",
+   "options": ["Charcoal", "Water gas", "Petroleum", "Paraffin"],
+   "answer": "Charcoal"
+ },
+ {
+   "question": "A molecule in plants comparable to haemoglobin in animals is ____:",
+   "options": ["Carotene", "Chlorophyll", "Cellulose", "Cytochrome"],
+   "answer": "Chlorophyll"
+ },
+ {
+   "question": "Night blindness results from the deficiency of ___:",
+   "options": ["Vitamin-E", "Vitamin-A", "Vitamin-B2", "Glucose"],
+   "answer": "Vitamin-A"
+ },
+ {
+   "question": "Sex of the baby depends on whose chromosomes?",
+   "options": ["Mother", "Father", "Grandmother", "Both mother and father"],
+   "answer": "Father"
+ }
+],
+     "Geography": [
+ {
+   "question": "Which is the longest beach in the world?",
+   "options": ["Maya Bay", "Santa Monica Beach", "Navagio Beach", "Praia do Cassino"],
+   "answer": "Praia do Cassino"
+ },
+ {
+   "question": "Which among the following planets is also called as the ‘dusty planet’?",
+   "options": ["Venus", "Mercury", "Jupiter", "Mars"],
+   "answer": "Mars"
+ },
+ {
+   "question": "Which sea houses the “Hanish Islands”?",
+   "options": ["Mediterranean Sea", "Red Sea", "Black Sea", "Aegean Sea"],
+   "answer": "Red Sea"
+ },
+ {
+   "question": "Which country’s UNESCO World Heritage Site is “The Causses and the Cevennes, Mediterranean agro-pastoral Cultural Landscape”?",
+   "options": ["Italy", "France", "Spain", "Germany"],
+   "answer": "France"
+ },
+ {
+   "question": "In which continent, Kazakhstan lies?",
+   "options": ["Asia", "Europe", "Africa", "South America"],
+   "answer": "Asia"
+ },
+ {
+   "question": "In which continent, Libya is situated?",
+   "options": ["North America", "Asia", "Europe", "Africa"],
+   "answer": "Africa"
+ },
+ {
+   "question": "Which of the following is the largest port of the Netherlands?",
+   "options": ["Houthaven", "Westpoort", "Ijgeul", "Rotterdam"],
+   "answer": "Rotterdam"
+ },
+ {
+   "question": "Which of the following counties has the world’s largest Muslim population?",
+   "options": ["Pakistan", "India", "Indonesia", "Saudi Arabia"],
+   "answer": "Indonesia"
+ },
+ {
+   "question": "Which one of the following is a warm ocean current?",
+   "options": ["Gulf Stream", "Kurile", "Canary", "Labrador"],
+   "answer": "Gulf Stream"
+ },
+ {
+   "question": "The Great Basin Desert is located in which among the following countries?",
+   "options": ["Australia", "Saudi Arabia", "Russia", "United States"],
+   "answer": "United States"
+ },
+ {
+   "question": "Which two countries are involved in the “Aegean dispute”?",
+   "options": ["Greece and Turkey", "Greece and Albania", "Greece and Italy", "Greece and Russia"],
+   "answer": "Greece and Turkey"
+ }
+],
+     "History": [
+ {
+   "question": "The first newspaper in the world was started by?",
+   "options": ["Japan", "China", "USA", "India"],
+   "answer": "China"
+ },
+ {
+   "question": "Who is known as Man of Blood and Iron?",
+   "options": ["Napoleon", "Bismarck", "Ho Chi Minh", "Sir Walter Scott"],
+   "answer": "Bismarck"
+ },
+ {
+   "question": "Which of these was an action of Farmers Alliances?",
+   "options": ["Involving farmers in political action", "Encouraging farmers to give up farming", "Helping farmers fight for better prices", "Both A & C"],
+   "answer": "Both A & C"
+ },
+ {
+   "question": "Which is considered the oldest civilization of the world?",
+   "options": ["Mesopotamian Civilization", "Harappan Civilization", "Chinese Civilization", "Egyptian Civilization"],
+   "answer": "Mesopotamian Civilization"
+ },
+ {
+   "question": "Which nation is associated with the “Quiet Revolution” of the 1960s?",
+   "options": ["Germany", "France", "Russia", "Canada"],
+   "answer": "Canada"
+ },
+ {
+   "question": "The “1989 Tiananmen Square Protests” happened in which nation?",
+   "options": ["Japan", "North Korea", "South Korea", "China"],
+   "answer": "China"
+ },
+ {
+   "question": "Which of the following invented the telescope?",
+   "options": ["Galileo", "Copernicus", "John Gutenberg", "None of the above"],
+   "answer": "Galileo"
+ },
+ {
+   "question": "Which of the following Hindu ruler welcomed Vasco da Gama?",
+   "options": ["King of Junagarh", "Zomorin", "Jahangir", "None of the above"],
+   "answer": "Zomorin"
+ },
+ {
+   "question": "During which of the following wars did the Russian Revolution take place?",
+   "options": ["World War I", "World War II", "Napoleonic War", "None of the above"],
+   "answer": "World War I"
+ },
+ {
+   "question": "The Russian Revolution took place in which of the following years?",
+   "options": ["1914", "1915", "1916", "1917"],
+   "answer": "1917"
+ }
+],
+   "Data Structures and Algorithms (DSA)": [
+ {
+   "question": "What is the time complexity of binary search?",
+   "options": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+   "answer": "O(log n)"
+ },
+ {
+   "question": "Which data structure is used for BFS traversal of a graph?",
+   "options": ["Stack", "Queue", "Array", "Linked List"],
+   "answer": "Queue"
+ },
+ {
+   "question": "Which sorting algorithm has the worst-case time complexity of O(n^2)?",
+   "options": ["Quick Sort", "Merge Sort", "Bubble Sort", "Heap Sort"],
+   "answer": "Bubble Sort"
+ },
+ {
+   "question": "What is the height of a balanced binary tree with n nodes?",
+   "options": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+   "answer": "O(log n)"
+ },
+ {
+   "question": "Which data structure is used to implement recursion?",
+   "options": ["Queue", "Array", "Stack", "Linked List"],
+   "answer": "Stack"
+ },
+ {
+   "question": "Which traversal is used in Depth-First Search (DFS)?",
+   "options": ["Preorder", "Inorder", "Postorder", "Level Order"],
+   "answer": "Preorder"
+ },
+ {
+   "question": "What is the time complexity of inserting an element into a max heap?",
+   "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+   "answer": "O(log n)"
+ },
+ {
+   "question": "Which of the following is not a hashing technique?",
+   "options": ["Linear Probing", "Quadratic Probing", "Double Hashing", "Binary Search"],
+   "answer": "Binary Search"
+ },
+ {
+   "question": "Which algorithm is used to find the shortest path in a weighted graph?",
+   "options": ["Kruskal's Algorithm", "Prim's Algorithm", "Dijkstra's Algorithm", "Floyd-Warshall Algorithm"],
+   "answer": "Dijkstra's Algorithm"
+ },
+ {
+   "question": "What is the best-case time complexity of merge sort?",
+   "options": ["O(n)", "O(log n)", "O(n log n)", "O(n^2)"],
+   "answer": "O(n log n)"
+ }
+],
+    "Python Language": [
+ {
+   "question": "Which of the following is not a valid Python keyword?",
+   "options": ["global", "def", "this", "pass"],
+   "answer": "this"
+ },
+ {
+   "question": "What is the output of type(5) in Python?",
+   "options": ["int", "class 'int'", "integer", "None of the above"],
+   "answer": "class 'int'"
+ },
+ {
+   "question": "What is used to define a block of code in Python?",
+   "options": ["Curly braces {}", "Parentheses ()", "Indentation", "Semicolon"],
+   "answer": "Indentation"
+ },
+ {
+   "question": "Which of these functions converts a string to an integer?",
+   "options": ["str()", "int()", "float()", "list()"],
+   "answer": "int()"
+ },
+ {
+   "question": "What will be the output of 3 * 'abc'?",
+   "options": ["Error", "'abcabcabc'", "3abc", "None of the above"],
+   "answer": "'abcabcabc'"
+ },
+ {
+   "question": "How are comments written in Python?",
+   "options": ["//", "#", "/* */", "<!-- -->"],
+   "answer": "#"
+ },
+ {
+   "question": "Which function is used to get user input in Python 3?",
+   "options": ["input()", "raw_input()", "cin>>", "gets()"],
+   "answer": "input()"
+ },
+ {
+   "question": "What will list(range(5)) return?",
+   "options": ["[0, 1, 2, 3, 4]", "[1, 2, 3, 4, 5]", "[0, 1, 2, 3, 4, 5]", "None of the above"],
+   "answer": "[0, 1, 2, 3, 4]"
+ },
+ {
+   "question": "What does the len() function do in Python?",
+   "options": ["Returns the last element", "Returns the length of an object", "Returns the index of an element", "None of the above"],
+   "answer": "Returns the length of an object"
+ },
+ {
+   "question": "What is the default data type of numbers like 3.14 in Python?",
+   "options": ["Integer", "Float", "Complex", "String"],
+   "answer": "Float"
+ }
+],
+    "C++ Language": [
+ {
+   "question": "What is a feature of C++ not present in C?",
+   "options": ["Functions", "Classes", "Pointers", "Macros"],
+   "answer": "Classes"
+ },
+ {
+   "question": "Which keyword is used for defining an abstract class in C++?",
+   "options": ["virtual", "static", "abstract", "pure"],
+   "answer": "virtual"
+ },
+ {
+   "question": "What does polymorphism in C++ mean?",
+   "options": ["Same name, different functions", "Operator overloading", "Both a and b", "None of the above"],
+   "answer": "Both a and b"
+ },
+ {
+   "question": "Which operator is used to dynamically allocate memory in C++?",
+   "options": ["malloc()", "alloc()", "new", "calloc()"],
+   "answer": "new"
+ },
+ {
+   "question": "Which of these is NOT a standard exception in C++?",
+   "options": ["std::bad_alloc", "std::logic_error", "std::invalid_cast", "std::out_of_range"],
+   "answer": "std::invalid_cast"
+ },
+ {
+   "question": "What does the term 'inline function' mean in C++?",
+   "options": ["A function declared in a single line", "A function executed before main()", "A function where the compiler replaces the function call with the code", "None of the above"],
+   "answer": "A function where the compiler replaces the function call with the code"
+ },
+ {
+   "question": "What is the default access specifier for class members in C++?",
+   "options": ["Public", "Private", "Protected", "None"],
+   "answer": "Private"
+ },
+ {
+   "question": "Which of the following is NOT a feature of C++?",
+   "options": ["Encapsulation", "Inheritance", "Garbage Collection", "Polymorphism"],
+   "answer": "Garbage Collection"
+ },
+ {
+   "question": "How do you declare a pure virtual function in C++?",
+   "options": ["void func() = 0;", "virtual void func();", "void func();", "pure void func();"],
+   "answer": "void func() = 0;"
+ },
+ {
+   "question": "Which STL class is used to implement a dynamic array?",
+   "options": ["deque", "list", "vector", "stack"],
+   "answer": "vector"
+ }
+],
+
+
+
+  "C Language": [
+ {
+   "question": "Which of the following is a valid keyword in C?",
+   "options": ["int", "class", "public", "friend"],
+   "answer": "int"
+ },
+ {
+   "question": "What is the size of an int data type in a 32-bit architecture?",
+   "options": ["2 bytes", "4 bytes", "8 bytes", "16 bytes"],
+   "answer": "4 bytes"
+ },
+ {
+   "question": "Which function is used to dynamically allocate memory in C?",
+   "options": ["malloc()", "free()", "alloc()", "calloc()"],
+   "answer": "malloc()"
+ },
+ {
+   "question": "What is the output of printf('%d', 5+5);?",
+   "options": ["5", "10", "Error", "None of the above"],
+   "answer": "10"
+ },
+ {
+   "question": "Which header file is used for string manipulation functions in C?",
+   "options": ["stdio.h", "string.h", "stdlib.h", "math.h"],
+   "answer": "string.h"
+ },
+ {
+   "question": "What does the continue statement do in C?",
+   "options": ["Stops execution of the program", "Skips to the next iteration of the loop", "Exits the loop", "Skips the current function"],
+   "answer": "Skips to the next iteration of the loop"
+ },
+ {
+   "question": "Which of the following is NOT a valid C data type?",
+   "options": ["float", "double", "bool", "real"],
+   "answer": "real"
+ },
+ {
+   "question": "What is the result of 5/2 in C?",
+   "options": ["2.5", "3", "2", "Error"],
+   "answer": "2"
+ },
+ {
+   "question": "Which operator is used to access the value of a pointer in C?",
+   "options": ["&", "*", "->", "."],
+   "answer": "*"
+ },
+ {
+   "question": "What is the default return type of main() in C?",
+   "options": ["void", "int", "float", "char"],
+   "answer": "int"
+ }
+],
+
+   "Politics": [
+ {
+   "question": "Who is the current Chief Minister of Uttar Pradesh (as of 2024)?",
+   "options": ["Yogi Adityanath", "Akhilesh Yadav", "Mayawati", "Priyanka Gandhi"],
+   "answer": "Yogi Adityanath"
+ },
+ {
+   "question": "Which political party leads the National Democratic Alliance (NDA) in India?",
+   "options": ["Indian National Congress", "Aam Aadmi Party", "Bhartiya Janata Party", "Samajwadi Party"],
+   "answer": "Bhartiya Janata Party"
+ },
+ {
+   "question": "Which country recently joined BRICS in its latest expansion in 2024?",
+   "options": ["Egypt", "Argentina", "Indonesia", "Turkey"],
+   "answer": "Argentina"
+ },
+ {
+   "question": "What is the key focus of the 2024 G20 Summit held in Brazil?",
+   "options": ["Artificial Intelligence Regulation", "Climate Change Mitigation", "Digital Economy Reforms", "Trade and Tariff Reductions"],
+   "answer": "Climate Change Mitigation"
+ },
+ {
+   "question": "Who is the current Minister of Home Affairs in India (as of 2024)?",
+   "options": ["Amit Shah", "Rajnath Singh", "Nitin Gadkari", "Piyush Goyal"],
+   "answer": "Amit Shah"
+ },
+ {
+   "question": "Who is the current Governor of the Reserve Bank of India (RBI)?",
+   "options": ["Urjit Patel", "Shaktikanta Das", "Raghuram Rajan", "Duvvuri Subbarao"],
+   "answer": "Shaktikanta Das"
+ },
+ {
+   "question": "Which African nation recently introduced reforms to promote digital governance and reduce corruption?",
+   "options": ["Nigeria", "Kenya", "Ghana", "Ethiopia"],
+   "answer": "Kenya"
+ },
+ {
+   "question": "Who is the current Finance Minister of India (as of 2024)?",
+   "options": ["Amit Shah", "Rajnath Singh", "Smriti Irani", "Nirmala Sitharaman"],
+   "answer": "Nirmala Sitharaman"
+ },
+ {
+   "question": "What was the primary goal of the 'PM Gati Shakti' initiative launched in India?",
+   "options": ["Promote digital payment systems", "Develop infrastructure and improve logistics efficiency", "Increase agricultural productivity", "Support women entrepreneurs"],
+   "answer": "Develop infrastructure and improve logistics efficiency"
+ },
+ {
+   "question": "Which newly launched scheme aims to provide subsidized food grains to low-income families in India?",
+   "options": ["Annapurna Scheme", "PM Garib Kalyan Anna Yojana", "Bharat Poshan Yojana", "Shakti Annadan Yojana"],
+   "answer": "PM Garib Kalyan Anna Yojana"
+ }
+]
+
+ }
