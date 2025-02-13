@@ -1,0 +1,101 @@
+/* Home Page Styles */
+.home-container {
+  display: flex;
+  justify-content: center;  /* Center the content horizontally */
+  align-items: center;      /* Center the content vertically */
+  width: 99.98vw;             /* Full viewport width */
+  height: 100vh;            /* Full viewport height */
+ background-image: url("https://media.istockphoto.com/id/1308683679/vector/violet-purple-and-navy-blue-defocused-blurred-motion-gradient-abstract-background.jpg?s=612x612&w=0&k=20&c=4wpzRK3SV0jOaqMOWTs1YOs9GN3CY21Z0BB67VHAjUM=");
+ background-repeat: no-repeat;/* Gradient background */
+ background-size: cover;
+  color: white;
+  padding: 0;
+  margin: 0;                /* Ensure no margin or padding disrupts full-screen */
+}
+
+.content {
+  text-align: center;
+  max-width: 600px;  /* Restrict width for readability */
+  padding: 40px;
+  background: rgba(248, 247, 247, 0.6); /* Darker background for contrast */
+  border-radius: 15px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.content:hover {
+  transform: scale(1.05); /* Slight scaling effect on hover */
+}
+
+.app-title {
+  font-size: 60px; /* Large size for desktop */
+  color: #aa36ce; /* Tomato color */
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.app-description {
+  font-size: 18px;
+  color: #0e0b0b;
+  margin-bottom: 30px;
+  line-height: 1.6;
+  letter-spacing: 1px;
+}
+
+.start-quiz-btn {
+  display: inline-block;
+  padding: 15px 35px;
+  font-size: 22px;
+  color: white;
+  background: linear-gradient(to right, #e74529, #5f28c5); /* Gradient background */
+  text-decoration: none;
+  border-radius: 50px;
+  box-shadow: 0 8px 15px rgba(255, 99, 71, 0.3);
+  transition: all 0.3s ease;
+}
+
+.start-quiz-btn:hover {
+  background: linear-gradient(to right, #ff4500, #6026ac); /* Reversed gradient on hover */
+  transform: translateY(-3px); /* Button moves up on hover */
+  box-shadow: 0 15px 30px rgba(228, 192, 186, 0.5);
+}
+
+.start-quiz-btn:active {
+  background: #ff6347; /* Solid color when clicked */
+  box-shadow: 0 5px 10px rgba(255, 99, 71, 0.5);
+  transform: translateY(2px); /* Button moves down when clicked */
+}
+
+/* Mobile & Tablet Responsive Design */
+@media (max-width: 1024px) {
+  .app-title {
+    font-size: 48px; /* Slightly smaller on tablet screens */
+  }
+
+  .start-quiz-btn {
+    font-size: 20px;
+    padding: 12px 30px;
+  }
+
+  .content {
+    padding: 30px;
+    max-width: 500px; /* Smaller max-width for tablet screens */
+  }
+}
+
+@media (max-width: 768px) {
+  .app-title {
+    font-size: 40px; /* Slightly smaller on smaller tablets and mobile */
+  }
+
+  .start-quiz-btn {
+    font-size: 18px;
+    padding: 10px 25px;
+  }
+
+  .content {
+    padding: 25px;
+    max-width: 450px; /* Further reduced width for smaller devices */
+  }
+}

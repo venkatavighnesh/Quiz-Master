@@ -1,0 +1,174 @@
+/* Reset margin and padding for the body */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* General Styles */
+.quiz-container {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy8Bur4jQnUUu5g6IFqGKelfshrYrZeveRjQ&s");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  width: 100%;
+  max-width: 500px; /* Max width for large screens */
+  overflow-y: auto; /* Allow scrolling if content overflows */
+  margin-left: 85%;
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #eff5f5;
+}
+
+/* Timer Section */
+.timer {
+  font-size: 1.5rem;
+  text-align: right;
+  color: #f44336; /* Red for urgency */
+  margin-bottom: 20px;
+}
+
+/* Questions and Options */
+.question {
+  background-color:white;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+ 
+}
+
+.question p {
+  font-size: 1.1rem;
+  color: #0c0b0b;
+  margin-bottom: 15px;
+}
+
+/* Styling for radio buttons */
+label {
+  display: block;
+  margin-bottom: 12px;
+  font-size: 1.1rem;
+  color: #0f0f0f;
+  cursor: pointer;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+  accent-color: #282c28; /* Green accent */
+}
+
+/* Button styling */
+button {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  font-size: 1.2rem;
+  background-color: #106e6e;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 30px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #05106e;
+}
+
+/* Result Section */
+.result1 {
+  text-align: center;
+  padding: 20px;
+  background-color: #f4f4f9;  /* Light background color */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Soft shadow for a card effect */
+  max-width: 400px;
+  margin: 20px auto;
+  font-family: 'Arial', sans-serif;
+}
+
+.result1 h2 {
+  font-size: 24px;
+  color: #3b3f3b;  /* Green color for success */
+  margin-bottom: 10px;
+}
+
+.result1 .score {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Responsive Design for Smaller Screens */
+@media screen and (max-width: 600px) {
+  .quiz-container {
+    padding: 20px;
+    margin: 10px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  .question p {
+    font-size: 1rem;
+  }
+
+  button {
+    font-size: 1.1rem;
+    padding: 12px;
+  }
+}
+
+/* Correct Answer */
+.correct {
+  color: green; /* Green for correct answers */
+}
+
+/* Incorrect Answer */
+.incorrect {
+  color: red; /* Red for incorrect answers */
+}
+
+/* Style for the overall answer result */
+.answer-result p {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.answer-result span {
+  display: block;
+  margin-top: 5px;
+  font-size: 0.9rem;
+}
+
+/* Optional: Style for results container */
+.result1 {
+  text-align: center;
+  padding: 20px;
+  background-color: #f4f4f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin: 20px auto;
+  font-family: 'Arial', sans-serif;
+}
+
+.result1 h2 {
+  font-size: 24px;
+  color: #3b3f3b;
+  margin-bottom: 10px;
+}
+
+.result1 .score {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}

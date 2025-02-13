@@ -1,0 +1,122 @@
+/* AddTopic Page Styles */
+
+/* Main container for the page, stretches full height and width */
+.topic-container2 {
+  background-image: url("https://wallpapers.com/images/hd/aesthetic-purple-pictures-1000-x-667-aginr6nmk80av22j.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  width: 100vw; /* Full viewport width */
+  box-sizing: border-box;
+  margin: 0; /* Remove default margin */
+}
+
+/* Heading Style */
+.New-topic {
+  font-size: 42px; /* Larger font size for desktop */
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 40px;
+  letter-spacing: 1px; /* Slight letter spacing for a cleaner look */
+  margin-left: -10px;
+}
+
+/* Form Container */
+form {
+  background-color: rgba(199, 191, 191, 0.7); /* Semi-transparent background for form */
+  padding: 50px;
+  border-radius: 15px; /* Rounded corners */
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4); /* Shadow for depth */
+  width: 100%;
+  max-width: 600px; /* Max width to maintain form's size */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  box-sizing: border-box;
+}
+
+/* Input Field Style */
+input.Topic {
+  padding: 15px;
+  font-size: 18px;
+  border-radius: 8px;
+  border: none;
+  width: 100%;
+  margin-bottom: 20px;
+  background-color: #fff;
+  color: #333;
+  box-sizing: border-box;
+  transition: all 0.3s ease;
+}
+
+input.Topic::placeholder {
+  color: #888;
+}
+
+/* Button Style */
+.btn {
+  padding: 15px;
+  background-color: #bdb8b7;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%;
+}
+
+.btn:hover {
+  background-color: #99197d; /* Darken on hover */
+}
+
+/* Focused input field */
+input.Topic:focus {
+  outline: none;
+  border: 2px solid #c51da9; /* Highlight input with red border when focused */
+}
+
+/* Responsive Design (for tablets and smaller screens) */
+@media (max-width: 1024px) {
+  .New-topic {
+    font-size: 36px; /* Slightly smaller font for mid-size screens */
+  }
+
+  form {
+    padding: 40px; /* Adjust padding for smaller screens */
+    width: 90%; /* More width usage */
+  }
+
+  input.Topic {
+    font-size: 16px; /* Smaller font size */
+  }
+
+  button {
+    font-size: 16px; /* Slightly smaller button text */
+  }
+}
+
+/* Mobile Devices (below 768px) */
+@media (max-width: 768px) {
+  .New-topic {
+    font-size: 28px; /* Smaller font for smaller screens */
+  }
+
+  form {
+    padding: 30px;
+    width: 90%; /* Full width for small screens */
+  }
+
+  input.Topic {
+    font-size: 14px; /* Small input text size */
+  }
+
+  button {
+    font-size: 16px; /* Adjust button font size */
+  }
+}
